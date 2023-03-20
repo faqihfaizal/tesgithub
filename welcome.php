@@ -30,6 +30,8 @@ if (isset($_GET['logout'])) {
 <body>
     <h1>asdjkashkhkjf</h1>
     <h2>sddads</h2>
+    <h3>faqih</h3>
+
     <table border = "0" align="center">
         <tr>
             <td rowspan="2"> 
