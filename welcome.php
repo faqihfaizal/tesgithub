@@ -29,6 +29,7 @@ if (isset($_GET['logout'])) {
 </head>
 <body>
     <h1>asdjkashkhkjf</h1>
+    <h2>sddads</h2>
     <table border = "0" align="center">
         <tr>
             <td rowspan="2"> 
